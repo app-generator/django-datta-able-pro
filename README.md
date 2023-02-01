@@ -6,7 +6,7 @@ The product is designed to deliver the best possible user experience with highly
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
 - 🛒 [Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/) - `Product page` (contains payment links)
-- 👉 [Django Datta Able PRO](https://django-datta-able-pro.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Django Datta Able PRO](https://django-datta-pro.onrender.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
