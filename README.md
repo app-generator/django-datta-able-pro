@@ -7,7 +7,7 @@ The product is designed to deliver the best possible user experience with highly
 
 - 🛒 [Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/) - `Product page` (contains payment links)
 - 👉 [Django Datta Able PRO](https://django-datta-pro.onrender.com/) - `LIVE Demo`
-- 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
+- 👉 [Django Datta Able PRO](https://docs.appseed.us/products/django-dashboards/datta-able-pro/) - `Documentation`
 
 <br />
 
