@@ -4,7 +4,7 @@
 ### Changes
 
 - Publish [LIVE Demo - Datta Able](https://django-datta-pro.onrender.com/)
-- Bump UI Versiom 
+- Bump UI Version
 
 ## [1.0.0] 2023-02-01
 ### Stable Version
