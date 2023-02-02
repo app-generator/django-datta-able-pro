@@ -1,7 +1,8 @@
 # [Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/)
 
-**Django** starter styled with **[Datta Able PRO](https://appseed.us/product/datta-able-pro/django/)**, a premium `Bootstrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed).
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+**Django Dashboard** crafted by `AppSeed` on top of a modern design. [Datta Able](https://appseed.us/product/datta-able-pro/django/) is a premium `Bootstrap 5` 
+Dashboard that comes with feature-rich pages and developer-centric code components. 
+This design provides many prebuilt admin layouts which give you the best selection choice for a modern dashboard.
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
