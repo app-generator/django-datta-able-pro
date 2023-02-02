@@ -14,7 +14,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Datta](https://github.com/app-generator/django-admin-datta-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Datta](https://github.com/app-generator/django-admin-datta-pro) - `PRO Version` by [CodedThemes](https://codedthemes.com/?ref=appseed)
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
