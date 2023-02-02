@@ -8,6 +8,7 @@ The product is designed to deliver the best possible user experience with highly
 - 🛒 [Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/) - `Product page` (contains payment links)
 - 👉 [Django Datta Able PRO](https://django-datta-pro.onrender.com/) - `LIVE Demo`
 - 👉 [Django Datta Able PRO](https://docs.appseed.us/products/django-dashboards/datta-able-pro/) - `Documentation`
+  - 🚀 [Go LIVE with Datta Able](https://www.youtube.com/watch?v=-q57F2qxgXo) - (VIDEO) `Learn how to use and deploy the product`
 
 <br />
 
@@ -20,8 +21,7 @@ The product is designed to deliver the best possible user experience with highly
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
 - ✅ `Docker`
-- 🚀 Deployment: `CI/CD` flow via `Render`
-  - [Django Datta PRO - Go LIVE](https://www.youtube.com/watch?v=-q57F2qxgXo) - `video presentation`
+- 🚀 Deployment: `CI/CD` flow via `Render` 
 
 <br />
 
