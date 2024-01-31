@@ -1,4 +1,4 @@
-# [Django Modernize PRO](https://github.com/app-generator/django-modernize-pro)
+# [Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/) 
 
 **Django Dashboard** crafted by `AppSeed` on top of a modern design. [Datta Able](https://appseed.us/product/datta-able-pro/django/) is a premium `Bootstrap 5` 
 Dashboard that comes with feature-rich pages and developer-centric code components. 
@@ -202,4 +202,4 @@ At this point, the product should be LIVE.
 <br />
 
 ---
-[Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Datta Able PRO](https://appseed.us/product/datta-able-pro/django/)  - **Django** starter provided by **[AppSeed](https://appseed.us/)**
