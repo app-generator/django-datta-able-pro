@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 import os, random, string
 from pathlib import Path
 from dotenv import load_dotenv
-from distutils.util import strtobool
+from str2bool import str2bool
 
 load_dotenv()  # take environment variables from .env.
 
@@ -28,8 +28,9 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 if not SECRET_KEY:
     SECRET_KEY = ''.join(random.choice( string.ascii_lowercase  ) for i in range( 32 ))
 
-# Render Deployment Code
-DEBUG = strtobool(os.getenv('DEBUG', "True"))
+# Enable/Disable DEBUG Mode
+DEBUG = str2bool(os.environ.get('DEBUG'))
+#print(' DEBUG -> ' + str(DEBUG) ) 
 
 ALLOWED_HOSTS = ['*']
 
