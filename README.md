@@ -77,7 +77,7 @@ The meaning of each variable can be found below:
 
 ## Manual Build
 
-> - Download the [code](https://appseed.us/product/datta-able-pro/django/) and unzip the sources (requires a `purchase`). 
+> Download the [code](https://appseed.us/product/datta-able-pro/django/) and unzip the sources (requires a `purchase`). 
 
 ```bash
 $ unzip django-datta-able-pro.zip
