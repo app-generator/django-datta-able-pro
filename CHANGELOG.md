@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.24] 2024-02-29
+### Changes
+
+- Update DEMO Link
+  - [Datta Able PRO Django](https://django-datta-pro.onrender.com/)
+
 ## [1.0.23] 2024-02-27
 ### Changes
 
