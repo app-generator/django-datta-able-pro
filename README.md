@@ -168,7 +168,7 @@ By default, the app redirects guest users to authenticate. In order to access th
 
 <br />
 
-## Start Celery (async task)
+## Start Celery (async tasks)
 
 - Make sure you have a Redis Server running: `redis://localhost:6379`
   - `$ redis-cli` and type `ping` 
@@ -239,4 +239,4 @@ The project is coded using a simple and intuitive structure presented below:
 <br />
 
 ---
-[Datta Able PRO](https://appseed.us/generator/datta-able-pro/) Django - Starter crafted by **[AppSeed](https://appseed.us/)**.
+[Datta Able PRO Django](https://appseed.us/product/datta-able-pro/django/) - Starter crafted by **[AppSeed](https://appseed.us/)**.
