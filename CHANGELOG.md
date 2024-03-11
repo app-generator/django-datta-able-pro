@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.25] 2024-03-11
+### Changes
+
+- Fixes:
+  - dataTables layout
+- Added Automatized Tests
+  - Linux
+  - Windows
+- Added [Delivery Tests](./test_reports/2024-03-11)
+  - [HTML](./test_reports/2024-03-11/report.html)
+  - [Video](./test_reports/2024-03-11/spec.cy.js.mp4)
+
 ## [1.0.24] 2024-02-29
 ### Changes
 
