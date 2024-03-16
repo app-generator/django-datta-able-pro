@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.26] 2024-03-16
+### Changes
+
+- Fixes:
+  - DT Page (dark mode)
+  - Profile Page (dark mode)
+  - Added Redis to Docker 
+  - Profile Page - Fix JS Browser Error 
+  - #79 - Invalid block tag on `index-1.html`
+
 ## [1.0.25] 2024-03-11
 ### Changes
 
