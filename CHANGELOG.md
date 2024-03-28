@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.27] 2024-03-28
+### Changes
+
+- Fixes:
+  - #76: Pagination not shown on DT
+  - DT Page (dark mode)
+
 ## [1.0.26] 2024-03-16
 ### Changes
 
