@@ -15,14 +15,13 @@ It comes with high feature-rich pages and components with fully developer-centri
 - Database: `SQLite`, PgSQL, MySql
 - **Authentication**
   - `Session-Based authentication`
-  - `Social Login`: **Github** & **Google**
+  - `Social Login`: **Github**
 - **User Extended profile**
 - **API** via DRF
 - DataTables
 - Charts
 - Celery
 - File Manager
-- i18n (internationalization) 
 - `Docker`
 - [Automated e2e Tests](#tests) - reports generated in `HTML and Video` format 
 

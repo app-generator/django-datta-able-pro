@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.28] 2024-08-08
+### Changes
+
+- Update Navigation (minor)
+- Update Sidebar (minor)
+  - Added [Documentation](https://docs.appseed.us/products/django-dashboards/datta-able-pro/) Link
+
 ## [1.0.27] 2024-03-28
 ### Changes
 
