@@ -1,11 +1,24 @@
 # Change Log
 
+## [1.0.30] 2025-05-14
+### Changes
+
+- React Integration
+- Codebase CleanUP
+
+## [1.0.29] 2025-03-31
+### Changes
+
+- Normalize Codebase
+- Added Charts
+- Reset Migrations
+
 ## [1.0.28] 2024-08-08
 ### Changes
 
 - Update Navigation (minor)
 - Update Sidebar (minor)
-  - Added [Documentation](https://docs.appseed.us/products/django-dashboards/datta-able-pro/) Link
+  - Added [Documentation](https://app-generator.dev/docs/products/django/datta-able-pro/index.html) Link
 
 ## [1.0.27] 2024-03-28
 ### Changes
