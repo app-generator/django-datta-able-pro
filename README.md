@@ -9,6 +9,12 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
+## LICENSE 
+
+> The **product is available for [Subscribers ONLY](https://app-generator.dev/terms/)**. For more information and products, feel free to access the [App-Generator](https://app-generator.dev/) platform.
+ 
+<br />
+
 ## Features
 
 - Simple, Easy-to-Extend Codebase
